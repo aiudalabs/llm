@@ -1,0 +1,253 @@
+Noel Moreno Lemus, Ph.D.
+Data Science Professional | Ph.D. in Computational Modeling |
+Researcher | Assistant Professor
+Panama
+Summary
+Experienced Data Science Leader with a strong track record of
+success across diverse industry domains including Life Sciences, Oil
+& Gas, BioTech, Advertising, Retail, Energy, Logistics, eCommerce,
+and IoT. Skilled in Mathematics, Probability, Statistics, Programming,
+Machine Learning, and deep learning.
+Portuguese (Professional Working)
+English (Professional Working)
+Spanish (Native or Bilingual)
+Certifications
+Oracle Cloud Infrastructure 2023 AI
+Certified Foundations Associate
+Art and Science of Machine Learning
+Launch & Learn: BigQuery Game
+Launching into Machine Learning
+Google Cloud Big Data and Machine
+Learning Fundamentals
+Publications
+SUQ 2: Uncertainty Quantification
+Queries over Large Spatio-temporal
+Simulations
+Parallel Computation of PDFs on Big
+Spatial Data Using Spark
+Editor de ecuaciones para la
+plataforma de simulación de
+sistemas biológicos
+Notably, I have leveraged my expertise in Bioinformatics, Drug
+Design, and Clinical Trials to drive impactful outcomes in the Life
+Sciences sector. Additionally, I possess a solid background in
+software development, enhancing my ability to deliver data-driven
+solutions.
+With over 20 years of experience, I have honed my communication
+skills and demonstrated a keen business acumen. Equally important,
+I have successfully led and managed teams for more than 15 years.
+As a passionate learner, I thrive on challenges and seek continuous
+growth opportunities.
+Experience
+Procter & Gamble
+4 years 4 months
+Senior Data Scientist
+BioSyS: software para la simulación
+y análisis de sistemas dinámicosMay 2022 - Present (1 year 8 months)
+Panama City, Panamá, Panama
+Methodology for stability analysis in
+N-Dimensional equations systemsResponsible for end-to-end analytic leadership of Data Science projects
+Patentsbuilding advanced analytic (ML/AI/Optimization) algorithms within a Data
+Methods and apparatus for
+automatic identification of faults on
+noisy seismic data
+including algorithm performance and effectiveness. Also responsible for
+Science program and working with Business Partners and Friends of Data
+Science to insert algorithms into business processes and activate them directly
+with the business.
+Page 1 of 7Data Scientist
+September 2019 - May 2022 (2 years 9 months)
+Panama City, Panamá, Panama
+Responsible for building advanced analytic (ML/AI/Optimization) algorithms
+within a Data Science program and working with Business Partners and
+Friends of Data Science to insert algorithms into business processes and
+activate them directly with the business.
+Universidade Federal Fluminense
+Postdoctoral Researcher
+August 2018 - May 2019 (10 months)
+Rio de Janeiro Area, Brazil
+Research Proposal: Computational modeling and simulation of epidemic
+infectious diseases
+- Conducted independent research and development to attain short and long-
+term objectives.
+- Wrote and published peer-reviewed articles concerning findings and
+highlighted possible applications for findings.
+- Contributed to and actively participated in research conception, design and
+execution to address defined problems.
+- Collaborated with multidisciplinary team members to accomplish the research
+goals of the project.
+- Leveraged interpersonal and communication skills to mentor Ph.D., graduate,
+and undergraduate students.
+Dell EMC
+Scientific Researcher
+February 2014 - August 2015 (1 year 7 months)
+Rio de Janeiro Area, Brazil
+Research Project: Visualization and Analysis for Seismic Interpretation
+- Automatically identifying possible faults in large seismic datasets.
+- An exemplary method comprises obtaining the seismic data; calculating
+a coherence cube of the seismic data; performing the following steps for
+a plurality of two-dimensional seismic sections of the coherence cube:
+(i) applying a threshold to the coherence cube to obtain a binary image
+representation comprising continuities; (ii) identifying edges of continuity areas
+in the binary image representation to identify changes in the continuities as
+fault point candidates; (iii) identifying fault points in the obtained seismic data
+based on a fault confidence value indicating a likelihood that a given point is
+Page 2 of 7part of a fault; (iv) creating one or more fault segments from the identified fault
+points; and (v) joining fault segments into fault lines using geological and/or
+geometrical constraints; and generating three-dimensional fault surfaces from
+the fault lines in the plurality of two-dimensional seismic sections
+- The exemplary automatic fault detection method can be parallelized.
+Universidad Agraria de La Habana (UNAH)¨Fructuoso Rodríguez
+Pérez¨
+Assistant Professor
+September 2011 - August 2012 (1 year)
+San José de las Lajas, Mayabeque, Cuba
+Disciplines:
+- Linear Algebra
+- Numerical Methods
+Objectives:
+- Used a variety of learning modalities and support materials to facilitate the
+learning process and accentuate presentations.
+- Collaborated with colleagues on curriculum revision, evaluation of course
+syllabi and lesson plans for Linear Algebra and Numerical Methods curriculum.
+- Helped struggling students by providing support outside of classrooms and
+consistently checking in on progress.
+- Mentored students and communicated internship and employment
+opportunities.
+- Contributed to campus activities to promote a positive university image.
+Universidad de las Ciencias Informáticas
+8 years
+Head of the Bioinformatic R&D Group
+September 2004 - August 2010 (6 years)
+Havana, Cuba
+As a Head of the Bioinformatics Research Group, I organized the work of
+more than 30 professionals from different areas as Biochemistry, Biology,
+Mathematics, Computer Science, and Information Technologies; and 200+
+students between 3er and 5th of the Information Science Engineers course.
+The work was organized into 9 Research & Developed projects that tried to
+solve problems for the Research Centers of the Scientific Pole of the West of
+Havana, Cuba. Some of the main projects were:
+- BioSyS: Biologic System Simulator
+Page 3 of 7- J-IMMSIM: Immune System Simulator
+- Grato: Computer-Aided Drug Design Framework
+- LIMS: Laboratory Information Management System for the CIGB, Cuba.
+- T-arenal: Platform of Distributed Tasks
+- BioNova: Bioinformatic Linux Distribution
+- Farmaco-kinetic web App
+Additionally I organizes:
+- Scientific seminars and conferences
+- Advanced and postgraduate courses
+- Coordinate the program of Master in Bioinformatics, which took place in two
+editions 2005-2007 and 2008-2010.
+- Guarantee the quality of the complete flow of software development, from
+the definition of the requirements to the quality tests of the software, its
+implementation, and its future maintenance and improvement.
+Main results:
+- The Bioinformatics Research Group was the best research group of the
+University in 2007, 2008 and 2009
+- The Software BioSyS and T-arenal were registered in the Cuban Office of
+Intellectual Property
+- The algorithms and software developed by the group were used by the
+Research Centers of the Scientific Pole of the West of Havana to conduct its
+investigations.
+Academic Advisor
+September 2004 - August 2010 (6 years)
+Master Degree Dissertations:
+1. Yudelkis Abad: "Software para la estimacion de parametros y analisis de
+sensibilidad en SED". 2010
+2. Yunet Gonzalez Mulet. "Metodología para el análisis de estabilidad de
+Sistema de Ecuaciones Diferenciales n-dimensionales". 2010
+Engineering Degree:
+1. Indira Rodriguez: "Implementacion del GROMACS en ambiente distribuido.
+2011.
+Page 4 of 72. Katia Manchon: BioG : desarrollo de un módulo de simulación de sistemas
+dinámicos. 2009.
+3. Yanet Fajardo. BioSyS : análisis de series temporales mediante técnicas de
+clustering. 2009.
+4. Jorge Diaz. BioSyS: adición de nuevos métodos de simulación y utilización
+e integración del asistente matemático Octave, 2009
+5. Yilian Rodriguez. BioSyS: Implementación del Módulo de Análisis.. 2008.
+6. Adriel Acosta. Simulador del Sistema Inmune J-ImmSim, 2008
+7. Alfredo Martinez. BioSyS: Módulo de Modelación Gráfica de Sistemas
+Biológicos, 2008
+8. Mabel Navarro. BioSyS: Implementación del Módulo de Simulación. 2008
+9. Niurka Martinez Duran. Portal Web de Servicios Bioinformáticos, 2008
+10. Roberto Maldonado. Estimación de Parámetros en SED, 2008
+11. Diana del Fresno. Aplicación Web para Estudios Farmacocinéticos, 2007
+12. Yeniley Matos. Simulador para el Sistema Inmune. 2007
+13. Mabelis Padron. Distribución de Linux específica para Bioinformática. 2007
+14. Yunet Gonzalez. Módulo de Simulación y Análisis para BioSyS, 2007
+15. Ileana Centelles. Editor de Ecuaciones Diferenciales para BioSyS, 2007
+16. Anthony Sotolongo. Herramienta para la Modelación de Sistemas
+Biológicos. 2006
+17. Celia Garcés. Sistema automatizado para el control de la calidad en el
+laboratorio clínico. 2005
+18. Yaima Fiallo. Sistema Automatizado para el Registro Cubano de
+Discapacitados. 2005
+19. Danay Rodriguez. Sistema para el Registro Cubano de Malformaciones
+Congénitas. 2005
+20. Karel Osorio. Plataforma para el Desarrollo de la Biología de Sistemas,
+2004
+Project Manager: BioSyS (Biological System Simulator)
+September 2003 - August 2010 (7 years)
+Havana, Cuba
+- Developed and initiated projects, managed costs, and monitored
+performance.
+- Adhered to industry practices, company standards, and safety protocols in
+work.
+- Completed assignments ahead of the deadline.
+- Assisted in level-loading project capacity and made proactive decisions
+around process improvements to the development cycle.
+Page 5 of 7- Modeled management and organizational skills and multi-tasked and
+prioritized in a deadline-driven environment.
+- Developed project timelines for product lines from kickoff through production
+and online content development based on marketplace requirements.
+- Verified quality of deliverables and conformance to specifications before
+submitting to clients.
+- Tracked project and team member performance closely to quickly intervene
+in mistakes or delays.
+- Recruited and oversaw personnel to achieve performance and quality
+targets.
+- Built successful project plans covering objectives, resources, and staffing to
+meet schedules.
+- Scheduled and facilitated meetings between project stakeholders to discuss
+deliverables, schedules and conflicts.
+Assistant Professor
+September 2002 - January 2010 (7 years 5 months)
+Havana, Cuba
+Disciplines:
+- Linear Algebra
+- Discrete Mathematics
+- Mathematical Models in Biology
+- Introduction to Bioinformatics
+- Probabilities and Statistics
+- Numerical Methods
+- GNU/Linux
+Objectives:
+- Used a variety of learning modalities and support materials to facilitate the
+learning process and accentuate presentations.
+- Took attendance, graded assignments, and maintained student records to
+assist teachers with administrative tasks and maintain smooth daily operations.
+- Collaborated with colleagues on curriculum revision, evaluation of course
+syllabi, and lesson plans.
+- Helped struggling students by providing support outside of classrooms and
+consistently checking in on progress.
+- Proctored exams and provided remediation for learning improvement goals.
+- Created materials and exercises to illustrate the application of course
+concepts.
+Page 6 of 7- Facilitated academic and community collaborations to increase the number of
+community-engaged research proposal submissions to extramural funders.
+- Mentored students and communicated internship and employment
+opportunities.
+- Contributed to campus activities to promote a positive university image.
+- Evaluated and supervised student activities and performance levels to
+provide reports on academic progress.
+- Applied innovative teaching methods to encourage student learning
+objectives.
+Education
+National Laboratory of Scientific Computing
+Doctor of Philosophy - PhD, Computational Modeling · (2013 - 2018)
+Institute of Technologies And Applied Sciences (InsTEC)
+Master's degree, Bioinformatics · (2005 - 2007)
+Institute of Nuclear Sciences And Technology (ISCTN)
+Bachelor's degree, Radiochemistry · (1997 - 2002)
